@@ -4,6 +4,6 @@ body , html {
 }
 
 
-.ide {
+#html, #css , #js {
     resize: none;
 }
