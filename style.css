@@ -6,4 +6,9 @@ body , html {
 
 #html, #css , #js {
     resize: none;
+    border: 1px solid rgb(45, 243, 45);
+}
+
+#css , #js {
+    display: none;
 }
